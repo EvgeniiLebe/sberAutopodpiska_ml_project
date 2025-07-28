@@ -468,6 +468,7 @@ joblib
 - [x] `ipynb` – полный анализ с EDA и ML
 - [x] `script.ipynb` – скрипт предсказания
 - [x] `catboost_model.cbm` – предобученная модель
+- [x] `ga_sessions_example.csv` – пример данных для скрипта
 - [x] `README.md` – документация
 - [x] `LICENSE` – лицензия
 ```
